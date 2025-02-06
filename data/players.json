@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "position": "Forward",
+    "rating": 90,
+    "averageScorePosition": 80,
+    "estimatedWorthEbits": 200000
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "position": "Midfielder",
+    "rating": 85,
+    "averageScorePosition": 75,
+    "estimatedWorthEbits": 150000
+  }
+]

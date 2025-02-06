@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Team A",
+      "elo": 1500,
+      "ebits": 100000,
+      "players": [
+        { "name": "Player 1", "position": "Goalkeeper" },
+        { "name": "Player 2", "position": "Defender" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Team B",
+      "elo": 1450,
+      "ebits": 90000,
+      "players": [
+        { "name": "Player 3", "position": "Midfielder" },
+        { "name": "Player 4", "position": "Striker" }
+      ]
+    }
+  ]
+  
